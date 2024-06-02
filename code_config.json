@@ -1,0 +1,17 @@
+{
+  "problem_type": {
+    "classificator": { "features": [], "features_name": [] },
+    "selector": {
+      "features": [
+        {
+          "cfg": { "filter": { "alpha": -1, "numeric": -1 } },
+          "handwritten": false,
+          "name": "vincode",
+          "public_name": "Vincode",
+          "semantics": "word"
+        }
+      ],
+      "features_name": ["vincode"]
+    }
+  }
+}
